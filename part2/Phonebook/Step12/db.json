@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Uzumaki Naruto",
+      "number": "1234-5678901",
+      "id": 5
+    },
+    {
+      "name": "Uchiha Sasuke Dattebayo",
+      "number": "0551-2345678",
+      "id": 6
+    },
+    {
+      "name": "Monkey D. Luffy",
+      "number": "2459876",
+      "id": 7
+    },
+    {
+      "name": "Son Goku",
+      "number": "2345678",
+      "id": 8
+    }
+  ]
+}
